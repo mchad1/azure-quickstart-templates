@@ -5,7 +5,7 @@
         "vmDiskCount": {
             "type": "int",
             "minValue": 2,
-            "maxValue": 32
+            "maxValue": 64
         },
         "vmDiskSize": {
             "type": "int",
