@@ -51,7 +51,7 @@
     "vmDiskCount": {
       "type": "int",
       "minValue": 2,
-      "maxValue": 32,
+      "maxValue": 64,
       "metadata": {
         "description": "Number of data disks on each S2D VM (Min=2, Max=32). Ensure that the VM size you've selected will support this number of data disks."
       },
